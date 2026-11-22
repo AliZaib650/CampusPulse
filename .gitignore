@@ -3,3 +3,6 @@
 
 # Ignore PDF documents
 *.pdf
+
+# Ignore Executeable file
+*.exe
